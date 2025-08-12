@@ -23,7 +23,7 @@ This project showcases an interactive **Power BI Dashboard** built to analyze Bl
 ## 📸 Preview
 
 <div align="center">
-  <img src="https://github.com/Harsha-032/OCR_PROJECT/raw/main/screenshots/dashboard.png">
+  <img src="https://github.com/Harsha-032/BlinkIT-Data_Analytics/blob/main/Screeshot.png?raw=true">
 </div>
 
 
